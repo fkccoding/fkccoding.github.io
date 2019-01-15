@@ -11,4 +11,4 @@
 
 ## 我的微信公众号
 
-![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
+![](https://github.com/fkccoding/project1/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
